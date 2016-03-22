@@ -1,4 +1,4 @@
 # cobaprop1
-coba coba propensi pertama
+coba coba propens pertama
 coba edit pake pensl
 lalalala
